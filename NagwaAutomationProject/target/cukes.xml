@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<testsuite errors="0" failures="0" name="io.cucumber.core.plugin.JUnitFormatter" skipped="0" tests="2" time="43.752">
+    <testcase classname="F1" name="_2" time="19.107">
+        <system-out><![CDATA[When Open Nagwa website.....................................................passed
+Given Select "English" Language.............................................passed
+]]></system-out>
+    </testcase>
+    <testcase classname="F2" name="_2" time="24.261">
+        <system-out><![CDATA[Given Click Search Icon.....................................................passed
+When Send Search Word "addition"............................................passed
+Then Make List of Lessons...................................................passed
+Then click "2"lesson........................................................passed
+Then Click WorkSheet........................................................passed
+Then go back................................................................passed
+Then count number of Question in WorkSheet..................................passed
+]]></system-out>
+    </testcase>
+</testsuite>
